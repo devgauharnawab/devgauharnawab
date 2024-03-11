@@ -39,6 +39,6 @@
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauharnawab&show_icons=true&locale=en&layout=compact" alt="gauharnawab" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devgauharnawab&show_icons=true&locale=en&layout=compact" alt="devgauharnawab" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gauharnawab&show_icons=true&locale=en" alt="gauharnawab" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=devgauharnawab&show_icons=true&locale=en" alt="devgauharnawab" /></p>
